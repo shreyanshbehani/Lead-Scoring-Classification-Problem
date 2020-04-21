@@ -27,3 +27,5 @@ X Education has appointed you to help them select the most promising leads, i.e.
 3. For our problem statement we have to predict Leads more correctly. So, we need high sensitivity for that we have to tweak the cut-off probability.
 4. We get 0.3 as optimal cutoff probability through ROC curve.
 5. We get train accuracy as 0.82 and test accuracy as 0.81
+6. Precision recall curve and plot of probability vs sensitivity, specificity and accuracy indicates good probability at 0.45
+7. For business problem we have to set a probability so that the conversion rate is more than 80%. We use hit and trial method to check at which probability we can reach 80% conversion rate.
