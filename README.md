@@ -29,3 +29,4 @@ X Education has appointed you to help them select the most promising leads, i.e.
 5. We get train accuracy as 0.82 and test accuracy as 0.81
 6. Precision recall curve and plot of probability vs sensitivity, specificity and accuracy indicates good probability at 0.45
 7. For business problem we have to set a probability so that the conversion rate is more than 80%. We use hit and trial method to check at which probability we can reach 80% conversion rate.
+8. We will fix .60 as our cutoff probability to achieve 80% conversion rate.
